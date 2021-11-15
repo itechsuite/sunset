@@ -1,0 +1,17 @@
+.justify-content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.heading-color{
+    color: rgba(15, 172, 36, 0.4);
+}
+
+.section-why-choose-us{
+    background-color:black; 
+    width: 100%;
+    height: 100vh;
+}
+
+

@@ -1,0 +1,12 @@
+.slide{
+    background: url('https://modern.b-cdn.net/wp-content/uploads/2017/06/slide-one.jpg');
+}
+.centralize{
+    margin: 0 50%;
+    color: #850303;
+}
+
+.space-between{
+    margin-bottom: 100px;
+}
+
